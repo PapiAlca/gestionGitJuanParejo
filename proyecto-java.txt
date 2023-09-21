@@ -1,3 +1,4 @@
 proyectazo
 funcionalidad
 funcionalidad 2.0
+bug arreglado
